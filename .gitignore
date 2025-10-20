@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+# Lambda build output
+orchestrator.zip
+map_builder.zip
+package/
+# OS/IDE
+.DS_Store
+.vscode/
+.idea/

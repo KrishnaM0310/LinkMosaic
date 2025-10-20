@@ -1,0 +1,1 @@
+{"status": "ok", "map_output": {"status": "ok", "map_s3_uri": "s3://linkmosaic-maps-krishnamehta/maps/latest_map.json", "map_data": {"nodes": [{"id": 0, "label": "Cluster 0", "summary": "- No substantive content to summarize in provided text \"hello from linkmosaic\""}], "edges": [], "clusters": []}}}
